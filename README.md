@@ -37,7 +37,6 @@ RP2     | [![RP2](https://github.com/mocleiri/tensorflow-micropython-examples/ac
 STM32   | Doesn't Work |
 UNIX   | [![UNIX](https://github.com/mocleiri/tensorflow-micropython-examples/actions/workflows/build_unix.yml/badge.svg)](https://github.com/mocleiri/tensorflow-micropython-examples/actions/workflows/build_unix.yml) |
 
-
 ## Prebuilt Firmware
 
 The latest firmware can be downloaded from the applicable build above (in the Status section).
